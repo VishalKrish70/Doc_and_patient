@@ -47,13 +47,4 @@ Step 2: Go to the Browser and enter http://127.0.0.1:8000/
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/83284855/172517620-9e1d0c35-b8ba-43c0-a9a0-2e3f20a04d4c.png">
 
 
-5) Dashboard for Doctor(After login): 
-
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/83284855/172517804-af2af61d-07a2-4723-80f2-386db295b660.png">
-
-
-6) Dashboard for Patient(After login):
-
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/83284855/172518194-2517dad8-9420-4bc8-872d-5691d9d67be3.png">
-
 
